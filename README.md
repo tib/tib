@@ -1,11 +1,15 @@
-# Hi! 👋
+# Welcome to my profile! 👋
 
-I'm Tibor Bödecs, creator of [Feather CMS](http://feathercms.com) and [The.Swift.Dev](https://theswiftdev.com). Server side Swift enthusiast, book author, content creator. Feel free to say hi on [Twitter](https://twitter.com/tiborbodecs). 🪶
+I'm Tibor Bödecs, creator of [Feather CMS](http://feathercms.com) and [The.Swift.Dev](https://theswiftdev.com). 
 
----
+Server side Swift enthusiast, book author, content creator. 
+
+Feel free to say hi on [Twitter](https://twitter.com/tiborbodecs). 🪶
+
+<br><br>
  
 <p>
-  <img width="250" align='left' src="https://theswiftdev.com/assets/book/practical-server-side-swift.png">
+  <img width="200" align='left' src="https://theswiftdev.com/assets/book/practical-server-side-swift.png">
 </p>
  
 ## Practical Server Side Swift
@@ -14,7 +18,12 @@ Swift on the server is an amazing new opportunity to build fast, safe and scalab
 
 [Buy now on Gumroad](https://gumroad.com/l/practical-server-side-swift)
 
----
 
+<br><br><br><br><br>
+
+
+## Feather CMS
+
+A modern Swift-based content management system powered by Vapor 4.
 
 ![Feather CMS](https://github.com/FeatherCMS/feather/raw/main/Assets/GitHub-Lead.png?raw=true)
