@@ -6,11 +6,7 @@ Server side Swift enthusiast, book author, content creator.
 
 Feel free to say hi on [Twitter](https://twitter.com/tiborbodecs). 🪶
 
-<br><br>
- 
-<p>
-  <img width="200" align='left' src="https://public-files.gumroad.com/q99m5x1kpvpuruxqx25449l5lim4">
-</p>
+<img src="https://public-files.gumroad.com/q99m5x1kpvpuruxqx25449l5lim4">
  
 ## Practical Server Side Swift
 
