@@ -9,7 +9,7 @@ Feel free to say hi on [Twitter](https://twitter.com/tiborbodecs). 🪶
 <br><br>
  
 <p>
-  <img width="200" align='left' src="https://theswiftdev.com/assets/book/practical-server-side-swift.png">
+  <img width="200" align='left' src="https://public-files.gumroad.com/q99m5x1kpvpuruxqx25449l5lim4">
 </p>
  
 ## Practical Server Side Swift
